@@ -35,7 +35,12 @@ A total of 34 features are extracted from each image. RFE is then used to select
 
 A Random Forest classifier is trained using the selected features.
 
-The trained model can predict the quality of a new apple image and provide:
+The system classifies apples into two classes:
+
+- Defected
+- Non-Defected
+
+For a new apple image, the trained model provides:
 
 - Predicted class
 - Prediction confidence
