@@ -1,4 +1,4 @@
-# Smart Apple Quality Detection
+# Vision based grading of apple fruit 
 
 ## Project Overview
 
